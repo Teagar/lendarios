@@ -47,4 +47,4 @@ O projeto Lendários tem como objetivo criar um sistema flexível de classifica�
 
 | [Felipe Gabriel](https://github.com/Gabbr1) | [Matheus Jardim](https://github.com/Berkinhas) | [Thiago Cerqueira](https://github.com/Teagar) |
 | --- | --- | --- |
-| ![Felipe Gabriel](https://avatars.githubusercontent.com/u/109770070?v=4) | ![Matheus Jardim](https://avatars.githubusercontent.com/u/88352519?v=4) | ![Thiago Cerqueira](https://avatars.githubusercontent.com/u/81341250?v=4) |
+| <img src="https://avatars.githubusercontent.com/u/109770070?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/88352519?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/81341250?v=4" width=115> |
