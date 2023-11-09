@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="" alt="Thumbnail do projeto"/>  
+</p>
 
-## Getting Started
+<br/>
+<p align="center">
+	<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" alt="Status: em desenvolvimento"/>
+</p>
 
-First, run the development server:
+<br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Visão Geral
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O projeto Lendários tem como objetivo criar um sistema flexível de classificação de participantes que podem competir em diferentes níveis e desafiar uns aos outros. Isso permitirá uma competição saudável e aprimoramento contínuo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias usadas
 
-## Learn More
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Funcionalidades
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+- [ ] Banco de Dados
+- [ ] Interface de Registro
+- [ ] Login
+- [ ] Administração de Nível e Ranks
+- [ ] Desafios
+- [ ] Sistema em tempo real
+- [ ] Gestão de admin
+- [ ] Segurança
+- [ ] Interface de Visualização
+- [ ] Documentação com controle de versão via Git
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br/>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contribuidores
+
+| [Felipe Gabriel](https://github.com/Gabbr1) | [Matheus Jardim](https://github.com/Berkinhas) | [Thiago Cerqueira](https://github.com/Teagar) |
+| --- | --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/109770070?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/88352519?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/81341250?v=4" width=115> |
+
